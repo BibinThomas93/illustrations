@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="357.32233"
+     inkscape:cy="686.52649"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3075"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="648"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="layer1-1"
+       inkscape:label="Layer 1"
+       transform="translate(-128.4891,-107.10182)">
+      <g
+         transform="translate(347.08715,508.81718)"
+         id="g3075">
+        <rect
+           style="fill:#cccccf;fill-opacity:1;stroke:none;stroke-width:1.11099993999999991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3066"
+           width="630.33521"
+           height="414.16254"
+           x="88.893425"
+           y="168.4787"
+           transform="translate(-218.59805,-401.71536)" />
+        <g
+           transform="matrix(5.4003466,0,0,5.4003466,107.07616,-131.58161)"
+           id="g3059"
+           style="fill:#000000">
+          <polygon
+             points="0,7 5,7 5,14 12.995,17.998 28,3 15,3 10,7 5,0 "
+             id="polygon3061"
+             transform="translate(-0.74821312,1.8705328)"
+             style="fill:#000000" />
+          <polygon
+             points="13.541,18.865 18,26 18,14.406 "
+             id="polygon3063"
+             transform="translate(-0.74821312,1.8705328)"
+             style="fill:#000000" />
+        </g>
+        <text
+           transform="translate(-347.08715,-508.81718)"
+           sodipodi:linespacing="125%"
+           id="text3082"
+           y="538.82587"
+           x="350.77548"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="538.82587"
+             x="350.77548"
+             id="tspan3084"
+             sodipodi:role="line" /></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3086"
+           y="55.624664"
+           x="59.832912"
+           style="font-size:58.52359009px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sheandy;-inkscape-font-specification:sheandy"
+           xml:space="preserve"><tspan
+             y="55.624664"
+             x="59.832912"
+             id="tspan3088"
+             sodipodi:role="line">swatantra</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

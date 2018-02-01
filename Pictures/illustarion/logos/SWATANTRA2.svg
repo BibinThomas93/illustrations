@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="SWATANTRA1.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748738"
+     inkscape:cx="794.9399"
+     inkscape:cy="638.53472"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="648"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3160"
+       transform="translate(506.78643,443.90289)">
+      <g
+         id="g3327"
+         transform="translate(1012.7887,-473.47806)" />
+    </g>
+    <g
+       id="g3236"
+       transform="matrix(0.50862776,0,0,0.50862776,-424.28389,103.17621)" />
+    <rect
+       style="fill:#cccccf;fill-opacity:1;stroke:none"
+       id="rect3000"
+       width="1715.239"
+       height="738.34784"
+       x="-68.036186"
+       y="-51.027061" />
+    <path
+       style="fill:#5eb1d5;fill-opacity:1;stroke:none"
+       d="m -662.66007,371.51938 121.21831,123.23861 4.04061,-107.07617 175.04864,-341.567934 -69.99278,6.19728 z"
+       id="path3780"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <g
+       id="g3533"
+       transform="matrix(6.1518214,-0.06159368,0.06159368,6.1518214,-898.0014,-59.354221)"
+       style="fill:#00557e;fill-opacity:1">
+      <g
+         id="g3519"
+         style="fill:#00557e;fill-opacity:1">
+        <path
+           id="path3521"
+           d="m 61.2,74.1 0,-0.6 C 60.869877,73.43306 97.411734,74.549985 97.411734,74.549985 85.207743,8.9341248 97.605524,74.285052 85.286544,9.3296323 L 9.6086546,75.825118 C 21.765837,74.393089 38.40489,56.725818 9.4181087,75.833979 L 40.4,76.9 c 0.1,0 0.2,0.1 0.3,0.1 L 57,94.9 c 0.2,0.2 0.5,0.1 0.6,-0.1 l 2.734271,-20.952383 c -4.96879,-4.098478 1.028784,-0.390701 0.928784,-0.390701 M 54.5,71.6 c 0,0.1 -0.1,0.3 -0.1,0.4 l 0.370865,15.843769 c 0,0.4 0.547382,-1.248268 0.247382,-1.548268 L 44,72.8 C 43.9,72.7 43.9,72.5 44,72.3 58.937269,52.868427 62.18961,45.525747 78.962318,23.989105 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccccccc"
+           style="fill:#138fcd;fill-opacity:1" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:113.1852951px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1d1d1d;fill-opacity:1;stroke:none;font-family:Guardians;-inkscape-font-specification:Guardians Bold"
+       x="461.28558"
+       y="645.98621"
+       id="text3539"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3541"
+         x="461.28558"
+         y="645.98621"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#1d1d1d;fill-opacity:1;font-family:Guardians;-inkscape-font-specification:Guardians Bold">SWATANTRA</tspan></text>
+    <path
+       style="fill:#087aac;fill-opacity:1;stroke:none"
+       d="M -825.95092,423.84426 -425.07629,66.589666 -645.70284,380.78407 -543.5636,500.4128 l 3.10225,-119.97537 152.93402,-304.337984 65.84344,331.337274 -209.53318,0.11471 -4.55246,-18.85203 14.08522,-8.57142 -6.05604,162.66174 -108.16554,-120.9509 z"
+       id="path3782"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="opacity:0.30530976;fill:#cccccf;fill-opacity:1;stroke:none"
+       d="M 578.50051,666.32262 C 1007.3193,596.00955 1306.5843,572.97635 1604.8155,565.73696 l 8.0812,110.39889 z"
+       id="path3786"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>

@@ -1,0 +1,2524 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg7160"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="schedule10.svg"
+   inkscape:export-filename="/home/bibin/Pictures/illustarion/posters/swatantra/brochure/schedule2.png"
+   inkscape:export-xdpi="299.96188"
+   inkscape:export-ydpi="299.96188">
+  <defs
+     id="defs7154">
+    <linearGradient
+       id="linearGradient4869"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#e5c030;stop-opacity:1;"
+         offset="0"
+         id="stop4867" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4863"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#e5b500;stop-opacity:0.79607844;"
+         offset="0"
+         id="stop4861" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1506"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#67b5cc;stop-opacity:1;"
+         offset="0"
+         id="stop1504" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1500"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#f25f00;stop-opacity:1;"
+         offset="0"
+         id="stop1498" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1494"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#64b1cc;stop-opacity:0.79607844;"
+         offset="0"
+         id="stop1492" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1488"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#43a8cc;stop-opacity:1;"
+         offset="0"
+         id="stop1486" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1482"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#f25f00;stop-opacity:1;"
+         offset="0"
+         id="stop1480" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient20706"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop20704" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient20700"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#939393;stop-opacity:1;"
+         offset="0"
+         id="stop20698" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6136"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#707070;stop-opacity:1;"
+         offset="0"
+         id="stop6134" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6130"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#add53e;stop-opacity:1;"
+         offset="0"
+         id="stop6128" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6124"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff9a32;stop-opacity:0.79607844;"
+         offset="0"
+         id="stop6122" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6118"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#fceb19;stop-opacity:1;"
+         offset="0"
+         id="stop6116" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6112"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#9fdeff;stop-opacity:1;"
+         offset="0"
+         id="stop6110" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10741"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#66d9e8;stop-opacity:1;"
+         offset="0"
+         id="stop10739" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10733"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#66d9e8;stop-opacity:1;"
+         offset="0"
+         id="stop10731" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9293"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#9fdeff;stop-opacity:1;"
+         offset="0"
+         id="stop9291" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9293"
+       id="linearGradient10735"
+       x1="130.52431"
+       y1="111.04699"
+       x2="192.53271"
+       y2="111.04699"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-177.07573,-4.5404034)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20706"
+       id="linearGradient20702"
+       x1="-0.90089834"
+       y1="7.866333"
+       x2="209.49071"
+       y2="7.866333"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2.5101112e-7,-7.5466666e-6)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20706"
+       id="linearGradient20708"
+       x1="-0.37173268"
+       y1="155.28996"
+       x2="209.02991"
+       y2="155.28996"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1494"
+       id="linearGradient1484"
+       x1="23.706493"
+       y1="222.29826"
+       x2="209.49071"
+       y2="222.29826"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1494"
+       id="linearGradient1490"
+       x1="23.614037"
+       y1="36.672691"
+       x2="209.04166"
+       y2="36.672691"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6124"
+       id="linearGradient1496"
+       x1="23.710125"
+       y1="174.42587"
+       x2="209.49071"
+       y2="174.42587"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6124"
+       id="linearGradient1502"
+       x1="23.614037"
+       y1="76.679695"
+       x2="209.49071"
+       y2="76.679695"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1494"
+       id="linearGradient1508"
+       x1="23.70866"
+       y1="270.2709"
+       x2="209.49071"
+       y2="270.2709"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4863"
+       id="linearGradient4865"
+       x1="23.602148"
+       y1="111.2377"
+       x2="209.4907"
+       y2="111.2377"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4863"
+       id="linearGradient4871"
+       x1="23.702431"
+       y1="250.96704"
+       x2="209.49071"
+       y2="250.96704"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.47459673"
+     inkscape:cx="64.878999"
+     inkscape:cy="419.83786"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g10873"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="338.47419,297.28448"
+       orientation="1,0"
+       id="guide20696"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="27.284362,206.14852"
+       orientation="1,0"
+       id="guide4982"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="88.295227,229.79497"
+       orientation="1,0"
+       id="guide5057"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="150.38123,92.017057"
+       orientation="1,0"
+       id="guide5194"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-4.3014324,180.84718"
+       orientation="1,0"
+       id="guide4932"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="82.768742,71.064075"
+       orientation="0,1"
+       id="guide4943"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="88.295225,56.85126"
+       orientation="0,1"
+       id="guide4945"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="24.442556,217.7839"
+       orientation="1,0"
+       id="guide4988"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7157">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="62.808338"
+       y="75.83445"
+       id="text4677"><tspan
+         sodipodi:role="line"
+         id="tspan4675"
+         x="62.808338"
+         y="79.12468"
+         style="stroke-width:0.26458332px" /></text>
+    <g
+       id="g1767"
+       transform="translate(0.52916628)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.98551321;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect10787"
+         width="209.41943"
+         height="297.09299"
+         x="-0.52916628"
+         y="-0.8136459" />
+      <g
+         id="g10873"
+         transform="translate(0.37173204,1.0776593)">
+        <path
+           style="opacity:1;fill:url(#linearGradient20708);fill-opacity:1;stroke:none;stroke-width:0.20246337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -0.90089934,8.2566522 -0.0295577,287.7697778 24.64058208,0.001 0.0072,-126.94285 H 209.55908 V 154.06581 L 25.413253,153.98519 V 54.077627 h 0.477491 v -0.0036 l 183.668336,0.0031 V 48.787511 H 23.614036 V 23.501716 H 209.55908 V 8.4018632 H 13.019694 v -0.145211 z"
+           id="rect10220"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccc" />
+        <g
+           id="g1224"
+           transform="matrix(1,0,0,1.1732866,267.21673,14.93728)">
+          <rect
+             style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1.70256269;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.10768797, 5.10768797;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect1213"
+             width="61.876045"
+             height="99.980827"
+             x="-243.50661"
+             y="139.58292" />
+          <rect
+             y="139.58292"
+             x="-181.63058"
+             height="99.980827"
+             width="61.876045"
+             id="rect1215"
+             style="opacity:1;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1.70256269;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.10768797, 5.10768797;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1.70256269;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.10768797, 5.10768797;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect1217"
+             width="61.876045"
+             height="99.980827"
+             x="-119.75453"
+             y="139.58292" />
+        </g>
+        <rect
+           y="-2.5737932"
+           x="-163.60519"
+           height="99.998215"
+           width="49.975273"
+           id="rect5225"
+           style="opacity:1;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:0.21360038;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           y="-2.570421"
+           x="-113.63322"
+           height="99.991638"
+           width="91.493561"
+           id="rect5229"
+           style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.24524917;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1.70059121;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.10177332, 5.10177332;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect396"
+           width="61.732822"
+           height="99.980827"
+           x="23.620934"
+           y="54.084827" />
+        <rect
+           style="opacity:1;fill:url(#linearGradient1484);fill-opacity:1;stroke:none;stroke-width:0.21919391;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5997"
+           width="185.78421"
+           height="5.9646759"
+           x="23.706493"
+           y="216.67012" />
+        <rect
+           style="opacity:1;fill:url(#linearGradient1508);fill-opacity:1;stroke:none;stroke-width:0.21408781;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5651"
+           width="185.78204"
+           height="14.204741"
+           x="23.70866"
+           y="267.93109" />
+        <rect
+           y="54.084827"
+           x="85.353752"
+           height="99.980827"
+           width="61.732822"
+           id="rect1203"
+           style="opacity:1;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1.70059121;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.10177332, 5.10177332;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           y="169.08539"
+           x="23.69808"
+           height="9.6226597"
+           width="185.79263"
+           id="rect5663"
+           style="opacity:1;fill:url(#linearGradient1496);fill-opacity:1;stroke:none;stroke-width:0.21923059;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.2019763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect10247"
+           width="44.690254"
+           height="99.984207"
+           x="-207.98967"
+           y="-2.5596101" />
+        <rect
+           style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1.71642649;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.14927929, 5.14927929;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1205"
+           width="62.887844"
+           height="99.980827"
+           x="147.08659"
+           y="54.084827" />
+        <rect
+           style="opacity:1;fill:url(#linearGradient4865);fill-opacity:1;stroke:none;stroke-width:0.21873432;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5981-7"
+           width="185.88855"
+           height="6.0774798"
+           x="23.602148"
+           y="108.19896" />
+        <rect
+           style="opacity:1;fill:url(#linearGradient4871);fill-opacity:1.0;stroke:none;stroke-width:0.21912771;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5997-2"
+           width="185.78827"
+           height="5.9646606"
+           x="23.702431"
+           y="247.98471" />
+        <rect
+           y="23.499498"
+           x="23.614037"
+           height="25.288054"
+           width="186.00513"
+           id="rect4816"
+           style="opacity:1;fill:url(#linearGradient1490);fill-opacity:1;stroke:none;stroke-width:0.21692427;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.08411634;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.25234879, 3.25234879;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-7-0"
+           width="44.279148"
+           height="3.2939453"
+           x="149.61783"
+           y="69.030083" />
+        <g
+           style="fill:#000000;fill-opacity:1"
+           transform="matrix(0.90989454,0,0,0.90989454,40.259103,17.815057)"
+           id="g5084">
+          <text
+             inkscape:export-ydpi="300"
+             inkscape:export-xdpi="300"
+             id="text5074-8"
+             y="45.305004"
+             x="116.35914"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06677991px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"
+             transform="scale(1.0333891,0.96768971)"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               y="45.305004"
+               x="116.35914"
+               sodipodi:role="line"
+               id="tspan5187-2">Affordable and OpenSource Assistive</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               y="49.273754"
+               x="116.35914"
+               sodipodi:role="line"
+               id="tspan5181-6">Technology Solutions for People with</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               y="53.242504"
+               x="116.35914"
+               sodipodi:role="line"
+               id="tspan4874">Physical Disabilities:AsTeRICS, FABI and</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               y="57.211254"
+               x="116.35914"
+               sodipodi:role="line"
+               id="tspan4880">the FlipMouse</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               y="61.180004"
+               x="116.35914"
+               sodipodi:role="line"
+               id="tspan5185-5"><tspan
+                 style="fill:#ffffff"
+                 id="tspan5202"> Benjamin Aigner &amp; Chris Veigl</tspan></tspan></text>
+        </g>
+        <text
+           transform="scale(1.0333891,0.96768971)"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.34335351px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#fff7f7;fill-opacity:1;stroke:none;stroke-width:0.10125224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="84.569321"
+           y="54.297985"
+           id="text1296-43-4"><tspan
+             sodipodi:role="line"
+             id="tspan1294-33-7"
+             x="84.569321"
+             y="54.297985"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.34335351px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#fff7f7;fill-opacity:1;stroke-width:0.10125224px">VENUE 2</tspan></text>
+        <text
+           transform="scale(1.0333891,0.96768971)"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.34335351px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.10125224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="144.72835"
+           y="54.441074"
+           id="text1296-43-4-2"><tspan
+             sodipodi:role="line"
+             id="tspan1294-33-7-4"
+             x="144.72835"
+             y="54.441074"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.34335351px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.10125224px">VENUE 3</tspan></text>
+        <rect
+           y="83.947418"
+           x="26.383463"
+           height="3.2939453"
+           width="21.167257"
+           id="rect4970"
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.74956375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.24869109, 2.24869109;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.86601627;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.59804847, 2.59804847;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-7-23"
+           width="28.255274"
+           height="3.2939453"
+           x="149.61783"
+           y="87.581963" />
+        <g
+           style="fill:#0f0000;fill-opacity:1"
+           transform="matrix(0.90989454,0,0,0.90989454,7.9799172,17.815057)"
+           id="g5107">
+          <g
+             style="fill:#0f0000;fill-opacity:1"
+             id="g9953" />
+          <text
+             id="text4917-1"
+             y="74.178108"
+             x="19.354849"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#0f0000;fill-opacity:1;stroke:none;stroke-width:0.06677991px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"
+             transform="scale(1.0333891,0.96768971)"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#0f0000;fill-opacity:1;stroke-width:0.06677991px"
+               y="74.178108"
+               x="19.354849"
+               sodipodi:role="line"
+               id="tspan5005-6">Making of the webcomic Pepper&amp;Carrot</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#0f0000;fill-opacity:1;stroke-width:0.06677991px"
+               y="78.062782"
+               x="19.354849"
+               sodipodi:role="line"
+               id="tspan5011-2"><tspan
+                 style="fill:#ffffff"
+                 id="tspan4972"> Davide Revoy</tspan></tspan></text>
+          <text
+             inkscape:export-ydpi="300"
+             inkscape:export-xdpi="300"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#0f0000;fill-opacity:1;stroke:none;stroke-width:0.06677991px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="150.59265"
+             y="74.473633"
+             id="text5104-6"
+             transform="scale(1.0333891,0.96768971)"><tspan
+               sodipodi:role="line"
+               x="150.59265"
+               y="74.473633"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#0f0000;fill-opacity:1;stroke-width:0.06677991px"
+               id="tspan5206-0">Being human in an open source driven </tspan><tspan
+               sodipodi:role="line"
+               x="150.59265"
+               y="78.358307"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#0f0000;fill-opacity:1;stroke-width:0.06677991px"
+               id="tspan5208-6">4th Industrial revolution</tspan><tspan
+               sodipodi:role="line"
+               x="150.59265"
+               y="82.242989"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#0f0000;fill-opacity:1;stroke-width:0.06677991px"
+               id="tspan5204-1"><tspan
+   style="fill:#ffffff"
+   id="tspan5210"> Milan Vathooppan</tspan>  (Fortiss)</tspan></text>
+        </g>
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.92790872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.78372617, 2.78372617;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974"
+           width="32.438297"
+           height="3.2939453"
+           x="26.383463"
+           y="95.416016" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.67427802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.02283378, 2.02283378;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-7-7"
+           width="17.12874"
+           height="3.2939453"
+           x="149.61783"
+           y="98.889015" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.9493413;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.84802359, 2.84802359;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-7-5"
+           width="33.954098"
+           height="3.2939453"
+           x="149.61783"
+           y="102.26167" />
+        <g
+           style="fill:#000000;fill-opacity:1"
+           transform="matrix(0.90989454,0,0,0.90989454,7.9799172,17.587687)"
+           id="g5126">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06677991px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="18.479443"
+             y="87.269569"
+             id="text4935-5"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"
+             transform="scale(1.0333891,0.96768971)"><tspan
+               sodipodi:role="line"
+               x="18.479443"
+               y="87.269569"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               id="tspan5035-4"> Fedora - Community &amp; Contribution</tspan><tspan
+               id="tspan4813"
+               sodipodi:role="line"
+               x="18.479443"
+               y="91.154243"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"><tspan
+                 style="fill:#ffffff"
+                 id="tspan4976">  Sumantro Mukhaerjee</tspan></tspan></text>
+          <text
+             inkscape:export-ydpi="300"
+             inkscape:export-xdpi="300"
+             id="text1356-5-7"
+             y="87.357147"
+             x="150.5994"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06677991px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"
+             transform="scale(1.0333891,0.96768971)"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               y="87.357147"
+               x="150.5994"
+               sodipodi:role="line"
+               id="tspan6196-1">Manually building your own tile server </tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               y="91.241821"
+               x="150.5994"
+               sodipodi:role="line"
+               id="tspan4750">with OSM</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               y="95.126503"
+               x="150.5994"
+               sodipodi:role="line"
+               id="tspan6194-1"><tspan
+   style="fill:#ffffff"
+   id="tspan5218"> Yogesh K S   </tspan>/ Open Data Kit and OSM</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#ffffff;fill-opacity:1;stroke-width:0.06677991px"
+               y="99.011177"
+               x="150.5994"
+               sodipodi:role="line"
+               id="tspan1259"> Asish Abraham Joseph</tspan></text>
+        </g>
+        <g
+           transform="matrix(0.90989454,0,0,0.90989454,29.777474,17.815057)"
+           id="g5142">
+          <g
+             id="g5132">
+            <text
+               transform="scale(1.0333891,0.96768971)"
+               inkscape:export-ydpi="300"
+               inkscape:export-xdpi="300"
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06203437px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06579777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="84.781578"
+               y="106.99728"
+               id="text1382-81"><tspan
+                 sodipodi:role="line"
+                 x="84.781578"
+                 y="106.99728"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06203437px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;stroke-width:0.06579777px"
+                 id="tspan1380-2">Tea break </tspan></text>
+          </g>
+        </g>
+        <rect
+           y="117.85198"
+           x="26.383463"
+           height="3.2939453"
+           width="27.192894"
+           id="rect4978"
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.84957939;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.5487381, 2.5487381;stroke-dashoffset:0;stroke-opacity:1" />
+        <g
+           style="fill:#000000;fill-opacity:1"
+           transform="matrix(0.90989454,0,0,0.90989454,10.418132,17.815057)"
+           id="g5163">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06677991px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="16.973333"
+             y="112.65421"
+             id="text4961-5"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"
+             transform="scale(1.0333891,0.96768971)"><tspan
+               sodipodi:role="line"
+               x="16.973333"
+               y="112.65421"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               id="tspan5048-5">H5P Tool for Open Education Resource</tspan><tspan
+               sodipodi:role="line"
+               x="16.973333"
+               y="116.53889"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               id="tspan5046-4"><tspan
+                 style="fill:#ffffff"
+                 id="tspan4980"> Jithin Thankachan</tspan></tspan></text>
+        </g>
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.93249643;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.79748922, 2.79748922;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-3"
+           width="32.759846"
+           height="3.2939453"
+           x="26.383463"
+           y="129.05261" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.90040118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.70120325, 2.70120325;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-7-5-1"
+           width="30.543552"
+           height="3.2939453"
+           x="165.83676"
+           y="129.20497" />
+        <g
+           style="fill:#000000;fill-opacity:1"
+           transform="matrix(0.90989454,0,0,0.90989454,7.9799172,17.815057)"
+           id="g5179">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06203437px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06579777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="18.639641"
+             y="125.68065"
+             id="text1419-1"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"
+             transform="scale(1.0333891,0.96768971)"><tspan
+               sodipodi:role="line"
+               x="18.639641"
+               y="128.52504"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06203437px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06579777px"
+               id="tspan1417-0" /></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10170245px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06677991px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="19.235903"
+             y="125.30222"
+             id="text4971-3"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"
+             transform="scale(1.0333891,0.96768971)"><tspan
+               sodipodi:role="line"
+               x="19.235903"
+               y="125.30222"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10170245px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               id="tspan5054-8">Commercial Art With Libre Software</tspan><tspan
+               sodipodi:role="line"
+               x="19.235903"
+               y="129.17935"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10170245px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               id="tspan4902"><tspan
+                 style="fill:#ffffff"
+                 id="tspan4999"> Raghavendra Kamath</tspan></tspan><tspan
+               sodipodi:role="line"
+               x="19.235903"
+               y="133.05647"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10170245px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               id="tspan5058-6" /></text>
+          <text
+             inkscape:export-ydpi="300"
+             inkscape:export-xdpi="300"
+             id="text1419-0-2"
+             y="125.63059"
+             x="150.82269"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06677991px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"
+             transform="scale(1.0333891,0.96768971)"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               y="125.63059"
+               x="150.82269"
+               sodipodi:role="line"
+               id="tspan6213-3">The role of open source hardware in </tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               y="129.51527"
+               x="150.82269"
+               sodipodi:role="line"
+               id="tspan6211-9">healthcare <tspan
+   style="fill:#ffffff"
+   id="tspan5296">Ashwin K Whitchurch</tspan></tspan></text>
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot1854"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+               id="flowRegion1856"><rect
+                 id="rect1858"
+                 width="360.99405"
+                 height="998.04236"
+                 x="1076.915"
+                 y="125.99412" /></flowRegion><flowPara
+               id="flowPara1860" /></flowRoot>        </g>
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.71693516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.15080526, 2.15080526;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-06"
+           width="19.36454"
+           height="3.2939453"
+           x="87.394325"
+           y="139.96715" />
+        <g
+           style="fill:#000000;fill-opacity:1"
+           transform="matrix(0.90989454,0,0,0.90989454,-23.69266,17.815057)"
+           id="g5192">
+          <text
+             inkscape:export-ydpi="300"
+             inkscape:export-xdpi="300"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06677991px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="118.0708"
+             y="133.98964"
+             id="text1429-6-09"
+             transform="scale(1.0333891,0.96768971)"><tspan
+               id="tspan4815"
+               sodipodi:role="line"
+               x="118.0708"
+               y="133.98964"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px">Software Culture:Education, Innovation </tspan><tspan
+               sodipodi:role="line"
+               x="118.0708"
+               y="137.87431"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               id="tspan4910">and presentation </tspan><tspan
+               sodipodi:role="line"
+               x="118.0708"
+               y="141.75899"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+               id="tspan1991"><tspan
+                 style="fill:#ffffff"
+                 id="tspan5131"> Davide Storti</tspan></tspan></text>
+        </g>
+        <g
+           transform="translate(-14.602815,-7.4570533)"
+           style="fill:#ffffff;fill-opacity:1"
+           id="g10218">
+          <text
+             transform="scale(1.0885933,0.91861672)"
+             inkscape:export-ydpi="300"
+             inkscape:export-xdpi="300"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.64493847px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.06743865px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="21.520523"
+             y="92.028511"
+             id="text1336-30"><tspan
+               sodipodi:role="line"
+               id="tspan1334-3"
+               x="21.520523"
+               y="92.028511"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.64493847px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.06743865px">01:15 pm</tspan></text>
+          <g
+             style="fill:#ffffff;fill-opacity:1"
+             id="g10172">
+            <g
+               id="g9947"
+               style="fill:#ffffff;fill-opacity:1"
+               transform="matrix(0.90989454,0,0,0.90989454,20.986557,25.272111)">
+              <text
+                 transform="scale(1.0333891,0.96768971)"
+                 inkscape:export-ydpi="300"
+                 inkscape:export-xdpi="300"
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.06203437px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07807346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 x="2.6605818"
+                 y="45.279354"
+                 id="text1308-8"><tspan
+                   sodipodi:role="line"
+                   id="tspan1306-9"
+                   x="2.6605818"
+                   y="45.279354"
+                   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.06203437px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.07807346px">12:30 pm</tspan></text>
+            </g>
+            <g
+               style="fill:#ffffff;fill-opacity:1"
+               id="g10126">
+              <g
+                 transform="matrix(0.90989454,0,0,0.90989454,20.986557,25.272111)"
+                 style="fill:#ffffff;fill-opacity:1"
+                 id="g9959">
+                <text
+                   id="text1360-7"
+                   y="86.664803"
+                   x="2.5805347"
+                   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.06203437px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07807346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   xml:space="preserve"
+                   inkscape:export-xdpi="300"
+                   inkscape:export-ydpi="300"
+                   transform="scale(1.0333891,0.96768971)"><tspan
+                     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.06203437px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.07807346px"
+                     y="86.664803"
+                     x="2.5805347"
+                     id="tspan1358-7"
+                     sodipodi:role="line">02:45 pm</tspan></text>
+              </g>
+              <g
+                 style="fill:#ffffff;fill-opacity:1"
+                 id="g10086">
+                <text
+                   transform="scale(1.0333891,0.9676897)"
+                   inkscape:export-ydpi="300"
+                   inkscape:export-xdpi="300"
+                   id="text1348-0"
+                   y="93.197258"
+                   x="22.763418"
+                   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07103861px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   xml:space="preserve"><tspan
+                     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.07103861px"
+                     y="93.197258"
+                     x="22.763418"
+                     id="tspan1346-5"
+                     sodipodi:role="line">02:00 pm</tspan></text>
+                <g
+                   style="fill:#ffffff;fill-opacity:1"
+                   id="g10023">
+                  <g
+                     style="fill:#ffffff;fill-opacity:1"
+                     id="g9996">
+                    <g
+                       style="fill:#ffffff;fill-opacity:1"
+                       id="g9974">
+                      <g
+                         style="fill:#ffffff;fill-opacity:1"
+                         id="g9941">
+                        <g
+                           style="fill:#ffffff;fill-opacity:1"
+                           id="g10053">
+                          <text
+                             id="text1423-8"
+                             y="125.2692"
+                             x="2.5892563"
+                             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.06203437px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07807346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                             xml:space="preserve"
+                             inkscape:export-xdpi="300"
+                             inkscape:export-ydpi="300"
+                             transform="matrix(0.94027511,0,0,0.88049558,20.986557,25.272111)"><tspan
+                               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.06203437px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.07807346px"
+                               y="125.2692"
+                               x="2.5892563"
+                               id="tspan1421-5"
+                               sodipodi:role="line">04:30 pm</tspan></text>
+                          <text
+                             transform="matrix(0.94027511,0,0,0.88049558,20.986557,25.272111)"
+                             inkscape:export-ydpi="300"
+                             inkscape:export-xdpi="300"
+                             xml:space="preserve"
+                             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.06203437px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07807346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                             x="2.5939529"
+                             y="112.16303"
+                             id="text1405-0"><tspan
+                               sodipodi:role="line"
+                               id="tspan1403-5"
+                               x="2.5939529"
+                               y="112.16303"
+                               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.06203437px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.07807346px">03.45 pm	</tspan></text>
+                          <text
+                             transform="scale(1.0333891,0.96768971)"
+                             inkscape:export-ydpi="300"
+                             inkscape:export-xdpi="300"
+                             id="text1386-8"
+                             y="123.1078"
+                             x="22.724157"
+                             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07103861px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                             xml:space="preserve"><tspan
+                               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.07103861px"
+                               y="123.1078"
+                               x="22.724157"
+                               id="tspan1384-9"
+                               sodipodi:role="line">03:30 pm</tspan></text>
+                          <text
+                             transform="matrix(0.94027511,0,0,0.88049558,20.986557,25.272111)"
+                             inkscape:export-ydpi="300"
+                             inkscape:export-xdpi="300"
+                             id="text1433-2"
+                             y="134.10529"
+                             x="2.7279751"
+                             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.06203437px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07807346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                             xml:space="preserve"><tspan
+                               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.06203437px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.07807346px"
+                               y="134.10529"
+                               x="2.7279751"
+                               id="tspan1431-5"
+                               sodipodi:role="line">05:15 pm</tspan></text>
+                          <text
+                             id="text6290-5"
+                             y="155.00923"
+                             x="23.62289"
+                             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.84894514px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07264028px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                             xml:space="preserve"
+                             inkscape:export-xdpi="300"
+                             inkscape:export-ydpi="300"><tspan
+                               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.84894514px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.07264028px"
+                               y="155.00923"
+                               x="23.62289"
+                               id="tspan6288-9"
+                               sodipodi:role="line">06:00 pm	</tspan></text>
+                          <text
+                             id="text6304-1"
+                             y="160.32635"
+                             x="23.554165"
+                             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.84894514px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07264028px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                             xml:space="preserve"
+                             inkscape:export-xdpi="300"
+                             inkscape:export-ydpi="300"><tspan
+                               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.84894514px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.07264028px"
+                               y="160.32635"
+                               x="23.554165"
+                               id="tspan6302-0"
+                               sodipodi:role="line">07.30 pm</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.32309675px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.10807744px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="23.500591"
+           y="18.118254"
+           id="text1230-4"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan1228-4"
+             x="23.500591"
+             y="18.118254"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.10807744px">20 DECEMBER 2017</tspan></text>
+        <g
+           transform="translate(-13.006642,-7.4570533)"
+           style="fill:#ffffff;fill-opacity:1"
+           id="g9927">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.80704498px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07973506px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="22.139515"
+             y="34.774597"
+             id="text1234"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"><tspan
+               sodipodi:role="line"
+               id="tspan1232"
+               x="22.139515"
+               y="34.774597"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.80704498px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.07973506px">09.00 am</tspan></text>
+          <text
+             id="text1244"
+             y="39.862854"
+             x="22.17185"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.80704498px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07157194px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.80704498px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.07157194px"
+               y="39.862854"
+               x="22.17185"
+               id="tspan1242"
+               sodipodi:role="line">09.45 am</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.80704498px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07157194px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="22.171719"
+             y="44.880737"
+             id="text1288"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"><tspan
+               sodipodi:role="line"
+               id="tspan1286"
+               x="22.171719"
+               y="44.880737"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.80704498px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.07157194px">10:00 am	</tspan></text>
+          <text
+             id="text1268"
+             y="49.722656"
+             x="22.151363"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.80704498px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07157194px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.80704498px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.07157194px"
+               y="49.722656"
+               x="22.151363"
+               id="tspan1266"
+               sodipodi:role="line">11.00 am	</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.80704498px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07157194px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="22.12051"
+             y="54.388596"
+             id="text1292"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"><tspan
+               sodipodi:role="line"
+               id="tspan1290"
+               x="22.12051"
+               y="54.388596"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.80704498px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.07157194px">11.30 am</tspan></text>
+        </g>
+        <g
+           transform="translate(2.0863996,-7.4570533)"
+           style="fill:#000000"
+           id="g9888">
+          <g
+             id="g675"
+             transform="translate(67.22906)">
+            <text
+               inkscape:export-ydpi="300"
+               inkscape:export-xdpi="300"
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80704498px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07672436px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="39.068295"
+               y="34.766861"
+               id="text1240"><tspan
+                 sodipodi:role="line"
+                 id="tspan1238"
+                 x="39.068295"
+                 y="34.766861"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80704498px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;stroke-width:0.07672436px">Registration</tspan></text>
+            <text
+               inkscape:export-ydpi="300"
+               inkscape:export-xdpi="300"
+               id="text1252"
+               y="39.758347"
+               x="15.018781"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80704498px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0603185px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 id="tspan5349"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80704498px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;stroke-width:0.0603185px"
+                 y="39.758347"
+                 x="15.018781"
+                 sodipodi:role="line">Settling Down/Swatantra 2014 report/Overview</tspan></text>
+            <text
+               inkscape:export-ydpi="300"
+               inkscape:export-xdpi="300"
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80704498px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0603185px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="4.6910911"
+               y="44.598343"
+               id="text1262"><tspan
+                 sodipodi:role="line"
+                 x="4.6910911"
+                 y="44.598343"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80704498px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;stroke-width:0.0603185px"
+                 id="tspan4789">Key Note - Ms. Karen Sandler (software freedom conservancy)</tspan></text>
+            <text
+               inkscape:export-ydpi="300"
+               inkscape:export-xdpi="300"
+               id="text1274"
+               y="49.762207"
+               x="40.34552"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80704498px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0603185px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80704498px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;stroke-width:0.0603185px"
+                 y="49.762207"
+                 x="40.34552"
+                 id="tspan1272"
+                 sodipodi:role="line">Tea Break</tspan></text>
+            <text
+               inkscape:export-ydpi="300"
+               inkscape:export-xdpi="300"
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80704498px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0603185px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="38.298"
+               y="54.443008"
+               id="text1284"><tspan
+                 sodipodi:role="line"
+                 id="tspan1282"
+                 x="38.298"
+                 y="54.443008"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80704498px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;stroke-width:0.0603185px">Inauguration</tspan></text>
+          </g>
+        </g>
+        <text
+           transform="scale(1.0333891,0.96768971)"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#f7f6f5;fill-opacity:1;stroke:none;stroke-width:0.07103861px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="8.4881945"
+           y="183.53049"
+           id="text1308-8-8"><tspan
+             sodipodi:role="line"
+             id="tspan1306-9-0"
+             x="8.4881945"
+             y="183.53049"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#f7f6f5;stroke-width:0.07103861px">10:30 am</tspan></text>
+        <text
+           transform="scale(1.0333891,0.96768971)"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#f7f6f5;fill-opacity:1;stroke:none;stroke-width:0.07103861px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="8.3965187"
+           y="188.87471"
+           id="text1336-30-7"><tspan
+             sodipodi:role="line"
+             id="tspan1334-3-9"
+             x="8.3965187"
+             y="188.87471"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#f7f6f5;stroke-width:0.07103861px">10:45 am</tspan></text>
+        <text
+           transform="scale(1.0333891,0.96768971)"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           id="text1348-0-0"
+           y="201.74622"
+           x="8.5572252"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#f7f6f5;fill-opacity:1;stroke:none;stroke-width:0.07103861px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#f7f6f5;stroke-width:0.07103861px"
+             y="201.74622"
+             x="8.5572252"
+             id="tspan1346-5-4"
+             sodipodi:role="line">11:30 am</tspan></text>
+        <text
+           transform="scale(1.0333891,0.96768971)"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#f7f6f5;fill-opacity:1;stroke:none;stroke-width:0.07103861px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="8.6002264"
+           y="228.06441"
+           id="text1360-7-3"><tspan
+             sodipodi:role="line"
+             id="tspan1358-7-01"
+             x="8.6002264"
+             y="228.06441"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#f7f6f5;fill-opacity:1;stroke-width:0.07103861px">01:00 pm</tspan></text>
+        <text
+           transform="scale(1.0333891,0.96768971)"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           id="text4935-5-5"
+           y="228.19377"
+           x="104.20348"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82771635px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06076268px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             id="tspan5035-4-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82771635px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.06076268px"
+             y="228.19377"
+             x="104.20348"
+             sodipodi:role="line">Lunch break</tspan></text>
+        <text
+           transform="scale(1.0333891,0.96768971)"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           id="text1386-8-9"
+           y="234.3069"
+           x="8.4469976"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#f7f6f5;fill-opacity:1;stroke:none;stroke-width:0.07103861px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#f7f6f5;stroke-width:0.07103861px"
+             y="234.3069"
+             x="8.4469976"
+             id="tspan1384-9-3"
+             sodipodi:role="line">01:45 pm</tspan></text>
+        <text
+           transform="scale(1.0333891,0.96768971)"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#f7f6f5;fill-opacity:1;stroke:none;stroke-width:0.07103861px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="8.4985714"
+           y="249.38239"
+           id="text1405-0-9"><tspan
+             sodipodi:role="line"
+             id="tspan1403-5-9"
+             x="8.4985714"
+             y="249.38239"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#f7f6f5;stroke-width:0.07103861px">02.30 pm	</tspan></text>
+        <text
+           transform="scale(1.0333891,0.96768971)"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#f7f6f5;fill-opacity:1;stroke:none;stroke-width:0.07103861px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="8.4301519"
+           y="259.84518"
+           id="text1423-8-7"><tspan
+             sodipodi:role="line"
+             id="tspan1421-5-31"
+             x="8.4301519"
+             y="259.84518"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#f7f6f5;stroke-width:0.07103861px">03:15 pm</tspan></text>
+        <text
+           transform="scale(1.0333891,0.96768971)"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           id="text1433-2-5"
+           y="266.89801"
+           x="8.4545975"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#f7f6f5;fill-opacity:1;stroke:none;stroke-width:0.07103861px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#f7f6f5;stroke-width:0.07103861px"
+             y="266.89801"
+             x="8.4545975"
+             id="tspan1431-5-8"
+             sodipodi:role="line">03:30 pm</tspan></text>
+        <text
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.84894514px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#f7f6f5;fill-opacity:1;stroke:none;stroke-width:0.07264028px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="8.8855057"
+           y="271.44803"
+           id="text6290-5-9"><tspan
+             sodipodi:role="line"
+             id="tspan6288-9-6"
+             x="8.8855057"
+             y="271.44803"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.84894514px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#f7f6f5;stroke-width:0.07264028px">04:15 pm	</tspan></text>
+        <text
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.84894514px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#f7f6f5;fill-opacity:1;stroke:none;stroke-width:0.07264028px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="8.8868494"
+           y="278.36041"
+           id="text6304-1-1"><tspan
+             sodipodi:role="line"
+             id="tspan6302-0-3"
+             x="8.8868494"
+             y="278.36041"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.84894514px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#f7f6f5;stroke-width:0.07264028px">05.15 pm</tspan></text>
+        <text
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           id="text1292-5"
+           y="172.97223"
+           x="7.5619469"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.80704498px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#f7f6f5;fill-opacity:1;stroke:none;stroke-width:0.07157194px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.80704498px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#f7f6f5;stroke-width:0.07157194px"
+             y="172.97223"
+             x="7.5619469"
+             id="tspan1290-2"
+             sodipodi:role="line">  09.30 am</tspan></text>
+        <g
+           id="g1230"
+           transform="translate(14.794392,-0.52916667)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05986903px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="91.899452"
+             y="184.23521"
+             id="text1304-86-8"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"
+             transform="scale(1.0333891,0.96768971)"><tspan
+               sodipodi:role="line"
+               x="91.899452"
+               y="184.23521"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.05986903px"
+               id="tspan4673-0">Tea Break</tspan></text>
+          <text
+             id="text1284-0"
+             y="173.41505"
+             x="44.481842"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80704498px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0603185px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80704498px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.0603185px"
+               y="173.41505"
+               x="44.481842"
+               id="tspan1282-2"
+               sodipodi:role="line">Plenary Talk-Todd Alan Weaver(The Futute of Computing and Why You Should Care)</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.32309675px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.10807744px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="23.514713"
+           y="163.20116"
+           id="text1230-4-9"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan1228-4-0"
+             x="23.514713"
+             y="163.20116"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.10807744px">21 DECEMBER 2017</tspan></text>
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.75438571;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.26315683, 2.26315683;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-7-5-4"
+           width="21.440472"
+           height="3.2939453"
+           x="149.61783"
+           y="227.58069" />
+        <text
+           id="text7791"
+           y="226.99612"
+           x="149.43677"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.43770385px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.052382px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82045579px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.052382px"
+             y="226.99612"
+             x="149.43677"
+             sodipodi:role="line"
+             id="tspan8003">PostgreSQL in the Database Landscape </tspan><tspan
+             id="tspan6553"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82045579px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.052382px"
+             y="230.15958"
+             x="149.43677"
+             sodipodi:role="line"><tspan
+               style="fill:#ffffff"
+               id="tspan5312"> Nikhil Sontakke</tspan></tspan></text>
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.70562202;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.11686589, 2.11686589;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-7-5-8"
+           width="18.758224"
+           height="3.2939453"
+           x="149.61783"
+           y="262.74677" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.052382px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="149.64204"
+           y="258.39368"
+           id="text1401-0-7"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             x="149.64204"
+             y="258.39368"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.052382px"
+             id="tspan8019">Survey of various Open Tools for the </tspan><tspan
+             sodipodi:role="line"
+             x="149.64204"
+             y="261.92145"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.052382px"
+             id="tspan8021">development of NLP Applications   </tspan><tspan
+             id="tspan6621"
+             sodipodi:role="line"
+             x="149.64204"
+             y="265.44922"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.052382px"><tspan
+               style="fill:#ffffff"
+               id="tspan5330"> Vishal Goyal</tspan></tspan></text>
+        <g
+           id="g681"
+           transform="translate(17.966432,1.0583333)">
+          <g
+             id="g20665"
+             transform="translate(49.507275)">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.43770385px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.052382px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="-13.986894"
+               y="271.40247"
+               id="text1419-0-8"
+               inkscape:export-xdpi="300"
+               inkscape:export-ydpi="300"><tspan
+                 sodipodi:role="line"
+                 x="-13.986894"
+                 y="271.40247"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.70649791px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.052382px"
+                 id="tspan8045">Panel Discussion - Software Freedom Challenges Ahead –Panel Discussion by FSF India &amp;   SPACE</tspan></text>
+            <text
+               id="text1429-6-0"
+               y="279.14294"
+               x="35.632645"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.43770385px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.052382px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"
+               inkscape:export-xdpi="300"
+               inkscape:export-ydpi="300"><tspan
+                 id="tspan1427-1-6"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.70649791px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.052382px"
+                 y="279.14294"
+                 x="35.632645"
+                 sodipodi:role="line">Valedictory Function</tspan></text>
+          </g>
+        </g>
+        <g
+           transform="matrix(1.0924296,0,0,0.55702213,5.4936289,100.87301)"
+           id="g5993"
+           style="fill:#5aa12c;fill-opacity:0.70355727;stroke:none;stroke-width:0.24472298;stroke-miterlimit:4;stroke-dasharray:none">
+          <rect
+             y="77.613426"
+             x="16.593569"
+             height="17.881233"
+             width="170.14348"
+             id="rect5987"
+             style="opacity:1;fill:#5aa12c;fill-opacity:0.70355727;stroke:none;stroke-width:0.24472298;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <g
+           transform="translate(7.0996549,-7.4570533)"
+           style="fill:#000000"
+           id="g9894">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.84894514px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06121885px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="97.241425"
+             y="154.6971"
+             id="text6286-1"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"><tspan
+               id="tspan6284-1"
+               sodipodi:role="line"
+               x="97.241425"
+               y="154.6971"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.84894514px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;stroke-width:0.06121885px">Cultural Programs</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.84894514px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06121885px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="103.61392"
+             y="160.41005"
+             id="text6300-4"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"><tspan
+               id="tspan6298-8"
+               sodipodi:role="line"
+               x="103.61392"
+               y="160.41005"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.84894514px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;stroke-width:0.06121885px">Dinner</tspan></text>
+        </g>
+        <text
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.052382px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="109.73508"
+           y="251.64374"
+           id="text1382-8"><tspan
+             sodipodi:role="line"
+             x="109.73508"
+             y="251.64374"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.052382px"
+             id="tspan1380-6">Tea break </tspan></text>
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.89058393;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.67175155, 2.67175155;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-7-5-7"
+           width="29.88114"
+           height="3.2939453"
+           x="149.48033"
+           y="241.96402" />
+        <text
+           inkscape:export-ydpi="72.410004"
+           inkscape:export-xdpi="72.410004"
+           id="text1401-0-5-2-4-5"
+           y="249.26346"
+           x="144.5712"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.90400815px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06240205px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"
+           transform="scale(1.0333891,0.96768971)"><tspan
+             id="tspan977-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.90400815px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.06240205px"
+             y="249.26346"
+             x="144.5712"
+             sodipodi:role="line">Malayalam Computing</tspan><tspan
+             id="tspan995-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.90400815px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.06240205px"
+             y="252.89346"
+             x="144.5712"
+             sodipodi:role="line"><tspan
+               style="fill:#ffffff"
+               id="tspan5322"> Santhosh Thottingal</tspan></tspan></text>
+        <text
+           transform="scale(1.0333891,0.96768971)"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.34335351px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.10125224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="25.531704"
+           y="54.334949"
+           id="text1296-43"><tspan
+             sodipodi:role="line"
+             id="tspan1294-33"
+             x="25.531704"
+             y="54.334949"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.34335351px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.10125224px">VENUE 1</tspan></text>
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.00577927;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.01733773, 3.01733773;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4966"
+           width="38.111217"
+           height="3.2939453"
+           x="26.383463"
+           y="58.866375" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.98732656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.96197963, 2.96197963;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-6"
+           width="36.72562"
+           height="3.2939453"
+           x="26.383463"
+           y="140.32858" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.73151815;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.19455442, 2.19455442;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-7"
+           width="20.160334"
+           height="3.2939453"
+           x="26.383463"
+           y="187.53102" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.79139376;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.37418113, 2.37418113;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-5"
+           width="23.595692"
+           height="3.2939453"
+           x="26.383463"
+           y="202.66063" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.96822488;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.90467448, 2.90467448;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-35"
+           width="35.318314"
+           height="3.2939453"
+           x="26.383463"
+           y="211.75357" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.78598291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.35794861, 2.35794861;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-62"
+           width="23.274143"
+           height="3.2939453"
+           x="26.383463"
+           y="227.66107" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.75788075;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.27364213, 2.27364213;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-9"
+           width="21.639601"
+           height="3.2939453"
+           x="87.394325"
+           y="231.19736" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.68903393;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.06710169, 2.06710169;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-1"
+           width="17.886637"
+           height="3.2939453"
+           x="26.383463"
+           y="262.82254" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.76643533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.29930588, 2.29930588;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2"
+           width="22.130871"
+           height="3.2939453"
+           x="87.394325"
+           y="62.206707" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.76512188;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.2953654, 2.2953654;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-0"
+           width="22.05508"
+           height="3.2939453"
+           x="87.394325"
+           y="87.217377" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.78459358;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.3537804, 2.3537804;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-9"
+           width="23.191929"
+           height="3.2939453"
+           x="87.394325"
+           y="101.88271" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.95251459;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.85754339, 2.85754339;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-3"
+           width="34.181465"
+           height="3.2939453"
+           x="87.394325"
+           y="121.36071" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.61088198;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.83264578, 1.83264578;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-6"
+           width="14.059247"
+           height="3.2939453"
+           x="87.394325"
+           y="129.05339" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.85101056;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.55303147, 2.55303147;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-61"
+           width="27.284584"
+           height="3.2939453"
+           x="87.394325"
+           y="199.29523" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.87662792;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.62988343, 2.62988343;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-7"
+           width="28.951962"
+           height="3.2939453"
+           x="87.394325"
+           y="242.34448" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.83251703;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.49755079, 2.49755079;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-7-2"
+           width="26.11161"
+           height="3.2939453"
+           x="87.394325"
+           y="256.60052" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.73035163;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.19105469, 2.19105469;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-7-5-3"
+           width="20.096085"
+           height="3.2939453"
+           x="149.61783"
+           y="118.17243" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.80589598;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.41768779, 2.41768779;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-7-5-9"
+           width="24.468393"
+           height="3.2939453"
+           x="149.61783"
+           y="188.5452" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.68116599;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.04349772, 2.04349772;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-2-06-7"
+           width="17.480478"
+           height="3.2939453"
+           x="149.48033"
+           y="140.0369" />
+        <rect
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.75788075;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.27364215, 2.27364215;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4974-9-3"
+           width="21.639601"
+           height="3.2939453"
+           x="117.4676"
+           y="234.48549" />
+        <g
+           id="g7616"
+           inkscape:label="Layer 1"
+           transform="matrix(0.8293633,0,0,0.8293633,-4.9834663,-10.500505)">
+          <text
+             transform="scale(1.0333891,0.96768971)"
+             inkscape:export-ydpi="72.410004"
+             inkscape:export-xdpi="72.410004"
+             id="text7253"
+             y="141.57889"
+             x="21.125053"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.44999337px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07413433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               id="tspan7251"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.44999337px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07413433px"
+               y="144.78366"
+               x="21.125053"
+               sodipodi:role="line" /></text>
+          <text
+             id="text7368"
+             y="75.83445"
+             x="62.808338"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="stroke-width:0.26458332px"
+               y="79.12468"
+               x="62.808338"
+               id="tspan7366"
+               sodipodi:role="line" /></text>
+          <g
+             transform="translate(15.63243,29.696925)"
+             id="g8444">
+            <g
+               transform="translate(213.50804,5.4745651)"
+               id="layer1-3"
+               inkscape:label="Layer 1">
+              <text
+                 transform="scale(1.0333891,0.96768971)"
+                 inkscape:export-ydpi="72.410004"
+                 inkscape:export-xdpi="72.410004"
+                 id="text1419-1-9"
+                 y="141.57889"
+                 x="21.125053"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07413433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 xml:space="preserve"><tspan
+                   id="tspan1417-0-2"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07413433px"
+                   y="144.7399"
+                   x="21.125053"
+                   sodipodi:role="line" /></text>
+              <text
+                 id="text4677-3"
+                 y="75.83445"
+                 x="62.808338"
+                 style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.40287805px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 xml:space="preserve"><tspan
+                   style="font-size:3.40287805px;stroke-width:0.26458332px"
+                   y="79.008186"
+                   x="62.808338"
+                   id="tspan4675-9"
+                   sodipodi:role="line" /></text>
+              <text
+                 transform="scale(1.0333891,0.96768971)"
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07524091px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 x="-41.55056"
+                 y="122.98287"
+                 id="text1401-0-5-3-7"
+                 inkscape:export-xdpi="72.410004"
+                 inkscape:export-ydpi="72.410004"><tspan
+                   sodipodi:role="line"
+                   x="-41.55056"
+                   y="122.98287"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;stroke-width:0.07524091px"
+                   id="tspan1415-6-6-14-7">Introduction to Microservices</tspan><tspan
+                   id="tspan6209-9-9-5"
+                   sodipodi:role="line"
+                   x="-41.55056"
+                   y="127.23647"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;stroke-width:0.07524091px"><tspan
+                     style="fill:#ffffff"
+                     id="tspan5288"> Unmesh Joshi</tspan></tspan></text>
+              <text
+                 transform="scale(1.0064992,0.99354276)"
+                 inkscape:export-ydpi="72.410004"
+                 inkscape:export-xdpi="72.410004"
+                 id="text1348-0-2-7-5-3"
+                 y="233.29678"
+                 x="-210.89999"
+                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.40287805px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:0.09694311px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 xml:space="preserve"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';fill:#ebebeb;stroke-width:0.09694311px"
+                   y="233.29678"
+                   x="-210.89999"
+                   id="tspan1346-5-9-0-6-6"
+                   sodipodi:role="line">12:15 pm</tspan></text>
+              <text
+                 inkscape:export-ydpi="72.410004"
+                 inkscape:export-xdpi="72.410004"
+                 id="text1401-8-8-2-7-1"
+                 y="199.5558"
+                 x="-42.779907"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06486333px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 xml:space="preserve"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.06486333px"
+                   y="199.5558"
+                   x="-42.779907"
+                   sodipodi:role="line"
+                   id="tspan7415-9-8-1">Algeberaic Data Types and Pattern</tspan><tspan
+                   id="tspan1002-0"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.06486333px"
+                   y="203.8094"
+                   x="-42.779907"
+                   sodipodi:role="line">Matching in Scala </tspan><tspan
+                   id="tspan1054-8"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.06486333px"
+                   y="208.063"
+                   x="-42.779907"
+                   sodipodi:role="line"><tspan
+                     style="fill:#ffffff"
+                     id="tspan5304"> Mushtaq Ahmed</tspan></tspan></text>
+              <g
+                 id="g1801"
+                 transform="translate(-322.44193)">
+                <g
+                   id="g1748"
+                   transform="matrix(1.2057442,0,0,1.2057442,-235.89248,-28.890964)" />
+                <g
+                   id="g1852">
+                  <text
+                     transform="matrix(1.1337313,0,0,1.0616524,-213.50995,-1.030162)"
+                     inkscape:export-ydpi="300"
+                     inkscape:export-xdpi="300"
+                     id="text4893-1"
+                     y="45.402466"
+                     x="303.69388"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06677991px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     xml:space="preserve"><tspan
+                       id="tspan4995-9"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+                       y="45.402466"
+                       x="303.69388"
+                       sodipodi:role="line">How can FOSS empower me?</tspan><tspan
+                       id="tspan5001-3"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10774088px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06677991px"
+                       y="49.287144"
+                       x="303.69388"
+                       sodipodi:role="line"><tspan
+                         style="fill:#eae6e9"
+                         id="tspan4968"> Aruna Sankaranarayanan</tspan></tspan></text>
+                  <text
+                     id="text4917-1-2"
+                     y="219.76862"
+                     x="126.80996"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40950274px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07326425px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     xml:space="preserve"
+                     inkscape:export-xdpi="300"
+                     inkscape:export-ydpi="300"
+                     transform="scale(1.0333891,0.96768972)"><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40074825px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07326425px"
+                       y="219.76862"
+                       x="126.80996"
+                       sodipodi:role="line"
+                       id="tspan5570">Building firewalls,access points and other </tspan><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40074825px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07326425px"
+                       y="224.03316"
+                       x="126.80996"
+                       sodipodi:role="line"
+                       id="tspan6477">network equipment using Free Software </tspan><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40074825px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07326425px"
+                       y="228.2977"
+                       x="126.80996"
+                       sodipodi:role="line"
+                       id="tspan5590">and Open Hardware</tspan><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40074825px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07326425px"
+                       y="232.56223"
+                       x="126.80996"
+                       sodipodi:role="line"
+                       id="tspan6479"><tspan
+                         style="fill:#ffffff"
+                         id="tspan5023"> Nishant Sharma</tspan></tspan><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40074825px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07326425px"
+                       y="236.82677"
+                       x="126.80996"
+                       sodipodi:role="line"
+                       id="tspan6481" /></text>
+                  <text
+                     id="text4917-3"
+                     y="251.31128"
+                     x="131.22685"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09626007px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06315929px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     xml:space="preserve"
+                     inkscape:export-xdpi="300"
+                     inkscape:export-ydpi="300"><tspan
+                       id="tspan7339"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.06315929px"
+                       y="251.31128"
+                       x="131.22685"
+                       sodipodi:role="line">Blender Open Movie Production Pipeline</tspan><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.06315929px"
+                       y="255.2748"
+                       x="131.22685"
+                       sodipodi:role="line"
+                       id="tspan4944"><tspan
+                         style="fill:#ffffff"
+                         id="tspan5039"> Francesco Siddi </tspan></tspan></text>
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06315929px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     x="130.86629"
+                     y="288.85983"
+                     id="text1401-8-8"
+                     inkscape:export-xdpi="300"
+                     inkscape:export-ydpi="300"><tspan
+                       id="tspan7421"
+                       sodipodi:role="line"
+                       x="130.86629"
+                       y="288.85983"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.06315929px">How FOSS is democratizing the spread of</tspan><tspan
+                       id="tspan7415"
+                       sodipodi:role="line"
+                       x="130.86629"
+                       y="293.11343"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.06315929px">content, from production to consumption </tspan><tspan
+                       sodipodi:role="line"
+                       x="130.86629"
+                       y="297.36703"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.06315929px"
+                       id="tspan4960"><tspan
+                         style="fill:#ffffff"
+                         id="tspan5055"> Nate Betzen</tspan></tspan></text>
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06486333px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     x="130.96486"
+                     y="198.36433"
+                     id="text7132-6-4"
+                     inkscape:export-xdpi="72.410004"
+                     inkscape:export-ydpi="72.410004"><tspan
+                       sodipodi:role="line"
+                       x="130.96486"
+                       y="198.36433"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.06486333px"
+                       id="tspan7234-1-1">The role of Open Digital DIY manufacturing</tspan><tspan
+                       id="tspan1064-2"
+                       sodipodi:role="line"
+                       x="130.96486"
+                       y="202.61794"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.06486333px"> across countriesand cultures</tspan><tspan
+                       sodipodi:role="line"
+                       x="130.96486"
+                       y="206.87154"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.06486333px"
+                       id="tspan4918"><tspan
+                         style="fill:#ffffff"
+                         id="tspan5015"> Marco Fioretti</tspan></tspan></text>
+                  <text
+                     id="text781-1"
+                     y="231.80188"
+                     x="131.1031"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                     xml:space="preserve"><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.26458332"
+                       y="231.80188"
+                       x="131.1031"
+                       id="tspan779-0"
+                       sodipodi:role="line">The Journey of GCompris </tspan><tspan
+                       id="tspan783-5"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.26458332"
+                       y="236.05548"
+                       x="131.1031"
+                       sodipodi:role="line"><tspan
+                         style="fill:#ffffff"
+                         id="tspan5031"> Timothee Giet, Gcompris</tspan></tspan></text>
+                  <text
+                     transform="scale(1.0333891,0.96768971)"
+                     inkscape:export-ydpi="72.410004"
+                     inkscape:export-xdpi="72.410004"
+                     id="text4961-5-0-2-2"
+                     y="259.37558"
+                     x="198.09724"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07001262px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     xml:space="preserve"><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07001262px"
+                       y="259.37558"
+                       x="198.09724"
+                       sodipodi:role="line"
+                       id="tspan2050">ICT integration in Primary Education-</tspan><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07001262px"
+                       y="263.62918"
+                       x="198.09724"
+                       sodipodi:role="line"
+                       id="tspan2044">Challenges and Experience</tspan><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#ffffff;stroke-width:0.07001262px"
+                       y="267.88278"
+                       x="198.09724"
+                       sodipodi:role="line"
+                       id="tspan4952"> N Manikantan</tspan><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07001262px"
+                       y="272.13638"
+                       x="198.09724"
+                       sodipodi:role="line"
+                       id="tspan2062">/Women Hackathon  <tspan
+   style="fill:#ffffff"
+   id="tspan4954">Chris Humphry</tspan></tspan></text>
+                  <text
+                     transform="scale(1.0333891,0.96768971)"
+                     inkscape:export-ydpi="72.410004"
+                     inkscape:export-xdpi="72.410004"
+                     id="text4961-5-0-2-2-5"
+                     y="146.33632"
+                     x="126.79695"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07001262px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     xml:space="preserve"><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07001262px"
+                       y="146.33632"
+                       x="126.79695"
+                       sodipodi:role="line"
+                       id="tspan958-8-5">Vector and Cut-out Animation for </tspan><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07001262px"
+                       y="150.58992"
+                       x="126.79695"
+                       sodipodi:role="line"
+                       id="tspan4906">Everyone with Synfig </tspan><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07001262px"
+                       y="154.84352"
+                       x="126.79695"
+                       sodipodi:role="line"
+                       id="tspan960-6-6"><tspan
+                         style="fill:#ffffff"
+                         id="tspan5007"> Timothee Giet, Gcompris</tspan></tspan></text>
+                </g>
+              </g>
+              <g
+                 id="g1678">
+                <g
+                   id="g1723"
+                   transform="translate(165.15117)">
+                  <g
+                     transform="matrix(1.2057442,0,0,1.2057442,-235.89248,-28.890964)"
+                     id="g1597">
+                    <text
+                       transform="scale(1.0333891,0.96768971)"
+                       inkscape:export-ydpi="300"
+                       inkscape:export-xdpi="300"
+                       xml:space="preserve"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05986903px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                       x="22.643518"
+                       y="145.92473"
+                       id="text1429-64"><tspan
+                         sodipodi:role="line"
+                         x="22.643518"
+                         y="145.92473"
+                         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.05986903px"
+                         id="tspan1427-6">Building Your Own Blockchain with Free</tspan><tspan
+                         sodipodi:role="line"
+                         x="22.643518"
+                         y="149.40739"
+                         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.05986903px"
+                         id="tspan4949">Software</tspan><tspan
+                         sodipodi:role="line"
+                         x="22.643518"
+                         y="152.89005"
+                         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#ffffff;fill-opacity:1;stroke-width:0.05986903px"
+                         id="tspan4951">Harry Halpin</tspan></text>
+                    <g
+                       id="g1558"
+                       transform="translate(17.991672)">
+                      <text
+                         xml:space="preserve"
+                         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05986903px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                         x="-55.300632"
+                         y="126.34019"
+                         id="text1401-6"
+                         inkscape:export-xdpi="300"
+                         inkscape:export-ydpi="300"
+                         transform="scale(1.0333891,0.9676897)"><tspan
+                           sodipodi:role="line"
+                           x="-55.300632"
+                           y="126.34019"
+                           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.05986903px"
+                           id="tspan1409-0">Building a COLLABORATIVE ECONOMY</tspan><tspan
+                           id="tspan4813-2"
+                           sodipodi:role="line"
+                           x="-55.300632"
+                           y="129.86797"
+                           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.05986903px">over Networks held in COMMONS</tspan><tspan
+                           sodipodi:role="line"
+                           x="-55.300632"
+                           y="133.39574"
+                           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.05986903px"
+                           id="tspan1415-1"><tspan
+                             style="fill:#ffffff"
+                             id="tspan5113"> Ramon Roca (Gufi.net)</tspan></tspan></text>
+                      <g
+                         id="g1518">
+                        <text
+                           transform="matrix(0.94027511,0,0,0.88049558,18.563252,23.106727)"
+                           inkscape:export-ydpi="300"
+                           inkscape:export-xdpi="300"
+                           id="text1356-4"
+                           y="87.047211"
+                           x="-80.263046"
+                           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06203437px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06579777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                           xml:space="preserve"><tspan
+                             id="tspan1364-9"
+                             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06203437px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06579777px"
+                             y="87.047211"
+                             x="-80.263046"
+                             sodipodi:role="line">Eliminating &quot;black boxes&quot;from your </tspan><tspan
+                             id="tspan1366-2"
+                             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06203437px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06579777px"
+                             y="90.874756"
+                             x="-80.263046"
+                             sodipodi:role="line">life:Using Free Software, Free Hardware </tspan><tspan
+                             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06203437px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06579777px"
+                             y="94.702293"
+                             x="-80.263046"
+                             sodipodi:role="line"
+                             id="tspan4896">and self-hosting</tspan><tspan
+                             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06203437px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06579777px"
+                             y="98.529839"
+                             x="-80.263046"
+                             sodipodi:role="line"
+                             id="tspan4807-4"><tspan
+                               style="fill:#ffffff"
+                               id="tspan5105"> Abhas Abhinav</tspan></tspan></text>
+                        <g
+                           id="g1486">
+                          <text
+                             id="text1344-2"
+                             y="91.455254"
+                             x="-55.197392"
+                             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#0f0000;fill-opacity:1;stroke:none;stroke-width:0.05986903px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                             xml:space="preserve"
+                             inkscape:export-xdpi="300"
+                             inkscape:export-ydpi="300"
+                             transform="scale(1.0333891,0.96768971)"><tspan
+                               id="tspan4811"
+                               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#0f0000;fill-opacity:1;stroke-width:0.05986903px"
+                               y="91.455254"
+                               x="-55.197392"
+                               sodipodi:role="line">Open Source in government and Public</tspan><tspan
+                               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#0f0000;fill-opacity:1;stroke-width:0.05986903px"
+                               y="94.937912"
+                               x="-55.197392"
+                               sodipodi:role="line"
+                               id="tspan4888">Sector</tspan><tspan
+                               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#0f0000;fill-opacity:1;stroke-width:0.05986903px"
+                               y="98.420578"
+                               x="-55.197392"
+                               sodipodi:role="line"
+                               id="tspan4890"><tspan
+                                 style="fill:#ffffff"
+                                 id="tspan5097"> Sreejith Anujan</tspan></tspan></text>
+                          <g
+                             id="g1462">
+                            <text
+                               transform="matrix(0.94027511,0,0,0.88049558,18.563252,23.106727)"
+                               inkscape:export-ydpi="300"
+                               inkscape:export-xdpi="300"
+                               id="text1304-86"
+                               y="45.45285"
+                               x="-80.373413"
+                               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06203437px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06579777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                               xml:space="preserve"><tspan
+                                 id="tspan1314-88"
+                                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06203437px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06579777px"
+                                 y="45.45285"
+                                 x="-80.373413"
+                                 sodipodi:role="line">GNU Health in the contextof Integrative </tspan><tspan
+                                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06203437px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06579777px"
+                                 y="49.280392"
+                                 x="-80.373413"
+                                 sodipodi:role="line"
+                                 id="tspan4872">and PrecisionMedicine </tspan><tspan
+                                 id="tspan4673"
+                                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06203437px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.06579777px"
+                                 y="53.107937"
+                                 x="-80.373413"
+                                 sodipodi:role="line"><tspan
+                                   style="fill:#ffffff"
+                                   id="tspan5074"> Luis Falcon MD</tspan></tspan></text>
+                            <text
+                               id="text1344-2-8"
+                               y="207.11192"
+                               x="-55.08461"
+                               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05986903px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                               xml:space="preserve"
+                               inkscape:export-xdpi="300"
+                               inkscape:export-ydpi="300"
+                               transform="scale(1.0333891,0.96768971)"><tspan
+                                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.05986903px"
+                                 y="207.11192"
+                                 x="-55.08461"
+                                 sodipodi:role="line"
+                                 id="tspan6350">Managing development and testing</tspan><tspan
+                                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.05986903px"
+                                 y="210.59459"
+                                 x="-55.08461"
+                                 sodipodi:role="line"
+                                 id="tspan4981"> environments in Python Softwares</tspan><tspan
+                                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.05986903px"
+                                 y="214.07724"
+                                 x="-55.08461"
+                                 sodipodi:role="line"
+                                 id="tspan6352"><tspan
+                                   style="fill:#ffffff"
+                                   id="tspan5147"> Tapasweni Pathak</tspan></tspan></text>
+                            <text
+                               xml:space="preserve"
+                               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222226px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.052382px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+                               x="-56.708618"
+                               y="258.19882"
+                               id="text1401-8"
+                               inkscape:export-xdpi="300"
+                               inkscape:export-ydpi="300"><tspan
+                                 sodipodi:role="line"
+                                 x="-56.708618"
+                                 y="260.46326"
+                                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222226px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.052382px;"
+                                 id="tspan1415-68" /><tspan
+                                 id="tspan7120"
+                                 sodipodi:role="line"
+                                 x="-56.708618"
+                                 y="263.59207"
+                                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222226px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.052382px;"><tspan
+   style="fill:#ffffff"
+   id="tspan5192">Benjamin Maco Hil</tspan> (FSF)</tspan></text>
+                            <g
+                               id="g4939"
+                               transform="translate(-61.010859,6.812969)">
+                              <rect
+                                 y="232.36412"
+                                 x="87.394325"
+                                 height="3.2939453"
+                                 width="28.951963"
+                                 id="rect4974-2-7-9"
+                                 style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.87662792;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.62988346, 2.62988346;stroke-dashoffset:0;stroke-opacity:1"
+                                 transform="translate(-144.37866,5.2916672)" />
+                              <text
+                                 xml:space="preserve"
+                                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.86129785px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06148429px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                 x="-54.647842"
+                                 y="248.39552"
+                                 id="text1401-6-5-6-4"
+                                 inkscape:export-xdpi="72.410004"
+                                 inkscape:export-ydpi="72.410004"
+                                 transform="scale(1.0333891,0.96768971)"><tspan
+                                   sodipodi:role="line"
+                                   x="-54.647842"
+                                   y="248.39552"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.86129785px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.06148429px"
+                                   id="tspan1415-1-2-9-6"><tspan
+   id="tspan5184"
+   style="fill:#ffffff">Juan Carlos Gentile</tspan> (Hipatia)</tspan></text>
+                            </g>
+                            <text
+                               id="text1344-4"
+                               y="133.84285"
+                               x="-57.164268"
+                               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.43770385px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.052382px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                               xml:space="preserve"
+                               inkscape:export-xdpi="300"
+                               inkscape:export-ydpi="300"><tspan
+                                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80621099px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.052382px"
+                                 y="133.84285"
+                                 x="-57.164268"
+                                 id="tspan1342-5"
+                                 sodipodi:role="line">KSEB experience </tspan><tspan
+                                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80621099px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.052382px"
+                                 y="137.00198"
+                                 x="-57.164268"
+                                 sodipodi:role="line"
+                                 id="tspan5115"><tspan
+                                   style="fill:#ffffff"
+                                   id="tspan5123"> Sathyaraj</tspan></tspan></text>
+                            <text
+                               xml:space="preserve"
+                               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222247px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                               x="-56.984333"
+                               y="201.17337"
+                               id="text4979"><tspan
+                                 sodipodi:role="line"
+                                 id="tspan4977"
+                                 x="-56.984333"
+                                 y="203.80556"
+                                 style="stroke-width:0.26458335px" /></text>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <text
+                       transform="scale(1.0333891,0.96768972)"
+                       inkscape:export-ydpi="300"
+                       inkscape:export-xdpi="300"
+                       xml:space="preserve"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05986903px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                       x="-15.441637"
+                       y="141.5396"
+                       id="text1429-64-3"><tspan
+                         sodipodi:role="line"
+                         x="-15.441637"
+                         y="141.5396"
+                         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;fill-opacity:1;stroke-width:0.05986903px"
+                         id="tspan1427-6-6">/ Bharat Electricals Ltd </tspan></text>
+                  </g>
+                  <rect
+                     style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.9177736;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.75332063, 2.75332063;stroke-dashoffset:0;stroke-opacity:1"
+                     id="rect4974-2-8"
+                     width="26.318634"
+                     height="3.9716556"
+                     x="-282.90765"
+                     y="232.79391" />
+                  <text
+                     id="text771-8"
+                     y="231.67569"
+                     x="-283.11444"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                     xml:space="preserve"><tspan
+                       id="tspan773-2"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.26458332"
+                       y="231.67569"
+                       x="-283.11444"
+                       sodipodi:role="line">Internet infrastructure,values and politics</tspan><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.26458332"
+                       y="235.92929"
+                       x="-283.11444"
+                       sodipodi:role="line"
+                       id="tspan4940"><tspan
+                         style="fill:#ffffff"
+                         id="tspan5155"> Mallory Knodel</tspan></tspan></text>
+                  <rect
+                     style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.0444634;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.13339007, 3.13339007;stroke-dashoffset:0;stroke-opacity:1"
+                     id="rect4974-2-2"
+                     width="34.086208"
+                     height="3.9716556"
+                     x="-282.90765"
+                     y="203.36852" />
+                  <text
+                     transform="scale(1.0333891,0.96768971)"
+                     inkscape:export-ydpi="72.410004"
+                     inkscape:export-xdpi="72.410004"
+                     id="text1332-6-5-7-2"
+                     y="204.94394"
+                     x="-273.63461"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07413433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     xml:space="preserve"><tspan
+                       id="tspan8705"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07413433px"
+                       y="204.94394"
+                       x="-273.63461"
+                       sodipodi:role="line">Electronic Health Records in low resource</tspan><tspan
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07413433px"
+                       y="209.19754"
+                       x="-273.63461"
+                       sodipodi:role="line"
+                       id="tspan4922">settings </tspan><tspan
+                       id="tspan8721"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.07413433px"
+                       y="213.45114"
+                       x="-273.63461"
+                       sodipodi:role="line"><tspan
+                         style="fill:#ffffff"
+                         id="tspan5139"> Angshuman Sarkar</tspan></tspan></text>
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                     x="-282.93167"
+                     y="268.39938"
+                     id="text2032"><tspan
+                       sodipodi:role="line"
+                       x="-282.93167"
+                       y="268.39938"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.26458332"
+                       id="tspan2030">Spoken Tutorials</tspan><tspan
+                       sodipodi:role="line"
+                       x="-282.93167"
+                       y="272.65298"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40287805px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.26458332"
+                       id="tspan2036"><tspan
+                         style="fill:#ffffff"
+                         id="tspan5167"> Kannan Moudgalya</tspan></tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <rect
+           style="opacity:1;fill:url(#linearGradient1502);fill-opacity:1;stroke:none;stroke-width:0.21872731;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5981-7-67"
+           width="185.87666"
+           height="6.0774798"
+           x="23.614037"
+           y="73.640953" />
+        <g
+           id="g1910"
+           transform="matrix(0.90989454,0,0,0.90989454,28.042503,-17.293419)">
+          <g
+             id="g1908"
+             transform="translate(0,0.58156923)">
+            <text
+               id="text1906"
+               y="106.99728"
+               x="84.781578"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06203437px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06579777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"
+               inkscape:export-xdpi="300"
+               inkscape:export-ydpi="300"
+               transform="scale(1.0333891,0.96768971)"><tspan
+                 id="tspan1904"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06203437px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#000000;stroke-width:0.06579777px"
+                 y="106.99728"
+                 x="84.781578"
+                 sodipodi:role="line">Lunch break </tspan></text>
+          </g>
+        </g>
+        <text
+           transform="scale(1.0333891,0.96768971)"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           id="text1304-86-8-2"
+           y="205.59653"
+           x="169.90149"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05986902px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             id="tspan4673-0-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.05986902px"
+             y="205.59653"
+             x="169.90149"
+             sodipodi:role="line">--do--</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05986902px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="169.90149"
+           y="219.26726"
+           id="text2015"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="scale(1.0333891,0.96768971)"><tspan
+             sodipodi:role="line"
+             x="169.90149"
+             y="219.26726"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.78612828px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.05986902px"
+             id="tspan2013">--do--</tspan></text>
+        <rect
+           style="opacity:1;fill:url(#linearGradient20702);fill-opacity:1;stroke:none;stroke-width:1.02543068;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.07629203, 3.07629203;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect20684"
+           width="211.67508"
+           height="14.826781"
+           x="-0.90089834"
+           y="-1.3621385" />
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="87.242638"
+           y="229.70238"
+           id="text5165"><tspan
+             sodipodi:role="line"
+             id="tspan5163"
+             x="87.242638"
+             y="229.70238"
+             style="stroke-width:0.26458332px" /></text>
+      </g>
+    </g>
+  </g>
+</svg>
